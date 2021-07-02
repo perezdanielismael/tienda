@@ -1,0 +1,19 @@
+.tarjeta{
+    width: 18rem;
+    height: 380px; 
+    transition: all .3s ease;
+}
+.tarjeta:hover{
+    box-shadow: 5px 5px 10px  black;
+}
+.image-card{
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    max-height: 160px;
+    margin: 5px auto;
+    object-fit: contain;
+    left: 50%;
+    top: 50%;
+}
+
