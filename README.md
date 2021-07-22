@@ -1,3 +1,3 @@
 # tienda
 
-Proyecto básico de React, utilizando Redux Ducks y conectando con una API, este proyecto está conectado a Firebase para su login con Google.
+Aplicación realizada utilizando el modelo Redux consumiendo la API de FakeStore con axios. El login fue realizado con Google y Firebase.
